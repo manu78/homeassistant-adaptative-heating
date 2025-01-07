@@ -1,0 +1,10 @@
+{
+    "domain": "adaptive_heating",
+    "name": "Adaptive Heating",
+    "documentation": "https://github.com/manu78/homeassistant-adaptative-heating",
+    "dependencies": [],
+    "codeowners": ["@manu78"],
+    "requirements": [],
+    "version": "0.1.0",
+    "iot_class": "calculated"
+}
